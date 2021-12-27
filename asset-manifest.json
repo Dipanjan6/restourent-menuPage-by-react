@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/restourent-menuPage-by-react/static/css/main.c9e5143b.css",
+    "main.js": "/restourent-menuPage-by-react/static/js/main.de8f9568.js",
+    "index.html": "/restourent-menuPage-by-react/index.html",
+    "main.c9e5143b.css.map": "/restourent-menuPage-by-react/static/css/main.c9e5143b.css.map",
+    "main.de8f9568.js.map": "/restourent-menuPage-by-react/static/js/main.de8f9568.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9e5143b.css",
+    "static/js/main.de8f9568.js"
+  ]
+}
